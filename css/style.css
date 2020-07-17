@@ -7,3 +7,6 @@
 .card-title {
   color: white;
 }
+nav ul li.active {
+  background-color: #d50000;
+}
